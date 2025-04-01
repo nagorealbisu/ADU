@@ -3,7 +3,7 @@
 
 void function(char *input) {
     char buffer[64];
-    strcpy(buffer,input);
+    strcpy(buffer, input);
 }
 
 int main (int argc, char *argv[]){
